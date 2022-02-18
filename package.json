@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "author": "Joros",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.5.1",
+    "dotenv": "^11.0.0",
+    "lodash": "^4.17.21",
+    "uwuifier": "^4.0.4",
+    "xhr2": "^0.2.1"
+  }
+}
